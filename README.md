@@ -1,5 +1,8 @@
 ### Hi, I am Iliya 👋
 
+- 🌱 I’m currently learning Ruby 
+ ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iltodbul/RubyBlog?style=plastic)
+ - and Chef 
 <!---
 iltodbul/iltodbul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
