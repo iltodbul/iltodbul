@@ -19,7 +19,9 @@
 <img align="left" src="https://github.com/iltodbul/iltodbul/blob/master/images/rails_logo.png?raw=true" width="70" height="70" />
 
 </br></br>
+
 *****
+
  ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/iltodbul/RubyBlog?style=plastic)
  
 ### GitHub Stats
